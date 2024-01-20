@@ -17,6 +17,7 @@ Develop a predictive model to assess and predict the app ratings on the Google P
 **Size Column**: Convert sizes to numeric, considering Kb and Mb.
 
 **Reviews Column**: Convert reviews from string to numeric.
+
 **Installs Column**: Convert installs to numeric, removing commas and the plus sign.
 
 **Price Column**: Remove the dollar sign and convert to numeric.
