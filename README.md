@@ -1,7 +1,7 @@
 # App-Rating-Prediction-Python
 **Dashboard Link**: https://public.tableau.com/app/profile/tanviben.vicky.rajput/viz/AppRatingAnalysis/AppRatingAnalysis?publish=yes
 
-Project Overview
+# Project Overview
 # Goal
 Develop a predictive model to assess and predict the app ratings on the Google Play Store based on the provided dataset ("googleplaystore.csv"). The aim is to enable the Google Play Store team to identify and promote apps that are likely to receive high ratings from users. By leveraging various features and attributes available in the dataset, the goal is to create a robust model that can accurately predict the potential success and user satisfaction of new apps. This predictive model will contribute to the new feature, boosting the visibility of promising apps in recommendations, search results, and other relevant sections, ultimately enhancing the overall user experience on the Google Play Store platform.
 
